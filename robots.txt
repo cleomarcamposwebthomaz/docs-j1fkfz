@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tjt2ns.pulaucuanwin.sbs/sitemap.xml
